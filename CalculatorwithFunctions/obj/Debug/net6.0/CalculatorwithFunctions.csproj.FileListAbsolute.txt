@@ -1,0 +1,15 @@
+C:\Users\YavuzSelim\source\repos\Week7Functionss\CalculatorwithFunctions\bin\Debug\net6.0\CalculatorwithFunctions.exe
+C:\Users\YavuzSelim\source\repos\Week7Functionss\CalculatorwithFunctions\bin\Debug\net6.0\CalculatorwithFunctions.deps.json
+C:\Users\YavuzSelim\source\repos\Week7Functionss\CalculatorwithFunctions\bin\Debug\net6.0\CalculatorwithFunctions.runtimeconfig.json
+C:\Users\YavuzSelim\source\repos\Week7Functionss\CalculatorwithFunctions\bin\Debug\net6.0\CalculatorwithFunctions.dll
+C:\Users\YavuzSelim\source\repos\Week7Functionss\CalculatorwithFunctions\bin\Debug\net6.0\CalculatorwithFunctions.pdb
+C:\Users\YavuzSelim\source\repos\Week7Functionss\CalculatorwithFunctions\obj\Debug\net6.0\CalculatorwithFunctions.csproj.AssemblyReference.cache
+C:\Users\YavuzSelim\source\repos\Week7Functionss\CalculatorwithFunctions\obj\Debug\net6.0\CalculatorwithFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YavuzSelim\source\repos\Week7Functionss\CalculatorwithFunctions\obj\Debug\net6.0\CalculatorwithFunctions.AssemblyInfoInputs.cache
+C:\Users\YavuzSelim\source\repos\Week7Functionss\CalculatorwithFunctions\obj\Debug\net6.0\CalculatorwithFunctions.AssemblyInfo.cs
+C:\Users\YavuzSelim\source\repos\Week7Functionss\CalculatorwithFunctions\obj\Debug\net6.0\CalculatorwithFunctions.csproj.CoreCompileInputs.cache
+C:\Users\YavuzSelim\source\repos\Week7Functionss\CalculatorwithFunctions\obj\Debug\net6.0\CalculatorwithFunctions.dll
+C:\Users\YavuzSelim\source\repos\Week7Functionss\CalculatorwithFunctions\obj\Debug\net6.0\refint\CalculatorwithFunctions.dll
+C:\Users\YavuzSelim\source\repos\Week7Functionss\CalculatorwithFunctions\obj\Debug\net6.0\CalculatorwithFunctions.pdb
+C:\Users\YavuzSelim\source\repos\Week7Functionss\CalculatorwithFunctions\obj\Debug\net6.0\CalculatorwithFunctions.genruntimeconfig.cache
+C:\Users\YavuzSelim\source\repos\Week7Functionss\CalculatorwithFunctions\obj\Debug\net6.0\ref\CalculatorwithFunctions.dll
